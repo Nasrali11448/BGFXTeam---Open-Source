@@ -517,7 +517,7 @@ void hack_thread() {
 #elif defined(__arm__)
     std::thread([] {
         usleep(500000);
-        InjectFunc64bit();
+        InjectFunc32bit();
     }).detach();
 
 #endif
