@@ -79,3 +79,14 @@ Blockman Go updated and you need to update your executor/injector?
 
 For Blockman Go bypass, we **won’t leak any of our methods**.  
 You will need to handle the bypass yourself.
+
+
+--
+
+## # Support
+
+Join our discord server to get the latest compiled version and to contact the support team and report bugs or problems. 
+
+Note: reporting bugs or problems about the source won't get you any where since it won't be getting any updates
+
+[Join Discord Server](https://discord.gg/XeQVj2vZHk)
