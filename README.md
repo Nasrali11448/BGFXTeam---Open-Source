@@ -3,7 +3,7 @@ BGFX - The #1 Blockman Go Executor
 
 BGFX is a Blockman Go Executor and it's the first executor ever to be made for Blockman Go. It's fully open source, supports 64bit and 32bit, and works for version 2.117.1 (com.sandboxol.blockymods.official).  
 
-The source won't be getting any updates because it's **getting discontinued**.
+The source won't be getting **any updates.**
 
 ---
 
